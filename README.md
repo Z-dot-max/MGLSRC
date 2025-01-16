@@ -3,7 +3,10 @@
 ## Python Dependencies
 Python (version >= 3.8)<br>  
 PyTorch (version >= 1.8.1)<br>  
-RDKit (version >= 2019)<br>  
+RDKit<br>  
+pandas<br> 
+scipy<br> 
+ast<br> 
 
 ## Train
 ```python
