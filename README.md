@@ -3,7 +3,7 @@
 ## Python Dependencies
 Python (version >= 3.8)<br>  
 PyTorch (version >= 1.8.1)<br>  
-RDKit<br>  
+RDKit (version >= 2019)<br>  
 pandas<br> 
 scipy<br> 
 ast<br> 
