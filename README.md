@@ -7,5 +7,6 @@ RDKit (version >= 2019)
 
 # How to use?
 ## Train
+'''
 cd MGLSRC
 python train_model.py
