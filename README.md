@@ -1,9 +1,9 @@
 # Motif-based Graph Learning for Synthesis Reaction Condition Prediction
 
 ## Python Dependencies
-Python (version >= 3.8)\<br>  
-PyTorch (version >= 1.8.1)\<br>  
-RDKit (version >= 2019)\<br>  
+Python (version >= 3.8)<br>  
+PyTorch (version >= 1.8.1)<br>  
+RDKit (version >= 2019)<br>  
 
 ## Train
 ```python
