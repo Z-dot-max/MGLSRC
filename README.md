@@ -9,12 +9,12 @@ scipy<br>
 ast<br> 
 
 ## Train
-```python
+```cmd
 cd MGLSRC
 python train_model.py
 ```
 
 ## Test
-```python
+```cmd
 python evaluate_model.py
 ```
